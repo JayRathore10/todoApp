@@ -1,0 +1,23 @@
+.main-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;   
+  box-sizing: border-box;
+}
+
+.center-container {
+  width: 420px;
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.heading {
+  text-align: center;
+  font-size: 34px;
+  color: #086ee3;
+  margin-top: 10px;
+}
